@@ -1,0 +1,1 @@
+leafletOutput("mymap",height = 1000)
